@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+  height: 20px;
+  font-family: "Bona Nova", serif;
+}
+
+input {
+  width: 300px;
+  margin-bottom: 1rem;
+  margin-right: 0.5rem;
+}

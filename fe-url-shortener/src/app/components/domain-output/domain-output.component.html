@@ -1,0 +1,6 @@
+<a routerLink='/'>Go back</a>
+<p *ngIf="domains !== undefined">
+    <div>
+    <p *ngFor="let domain of domains">Domain: {{domain.domainName}}<br>Visited: {{domain.timesVisited}}  times 
+</p>
+</div>

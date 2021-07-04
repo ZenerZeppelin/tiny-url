@@ -1,0 +1,7 @@
+* {
+  font-family: "Bona Nova", serif;
+}
+
+div :first-child {
+  color: green;
+}

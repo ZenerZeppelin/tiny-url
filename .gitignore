@@ -1,0 +1,9 @@
+be-url-shortener/node_modules/
+be-url-shortener/dist/
+
+fe-url-shortener/node_modules/
+fe-url-shortener/dist
+fe-url-shortener/tmp
+fe-url-shortener/out-tsc
+fe-url-shortener/.DS_Store
+fe-url-shortener/Thumbs.db
